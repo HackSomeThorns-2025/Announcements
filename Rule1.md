@@ -6,7 +6,7 @@
 For Day 1, structure your GitHub repository in a clean, professional, and industry-standard way.
 
 Your repository **must** include the following:
-
+```
 Repo/
 │
 ├── Ideation_PPT/
@@ -30,7 +30,7 @@ Repo/
 │
 └── Documentation/
 └── research_paper.pdf (Follow IEEE-conf template on Overleaf)
-
+```
 ---
 
 ## 🌱 Branch Naming Convention
