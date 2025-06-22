@@ -4,7 +4,7 @@ This is the daily leaderboard for **Hack Some Thorns**, based on:
 - ✅ Rule implementation
 - 🔁 Daily, meaningful commits
 
-_Last updated: June 22, 2025_ | _till Rule 5 implementation + Saturday's Reasonable Commit_
+_Last updated: June 22, 2025_ | _till Rule 5 implementation + Saturday's Reasonable Commit_ | _Checkpoint meet points not considered in this_
 
 ---
 
