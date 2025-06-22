@@ -4,7 +4,7 @@ This is the daily leaderboard for **Hack Some Thorns**, based on:
 - ✅ Rule implementation
 - 🔁 Daily, meaningful commits
 
-_Last updated: June 18, 2025_ | _till Rule 3 implementation_
+_Last updated: June 22, 2025_ | _till Rule 5 implementation + Saturday's Reasonable Commit_
 
 ---
 
@@ -12,11 +12,11 @@ _Last updated: June 18, 2025_ | _till Rule 3 implementation_
 
 | Rank | Team Name        |
 |:----:|------------------|
-| 🥇   | cOdeSNiPers     |
-| 🥈   | Mangoes    |
-| 🥉   | Manipal Super Kings         |
-| 4️⃣   | DevCubed  |
-| 5️⃣   | Zenith      |
+| 🥇   | DevCubed     |
+| 🥈   | Manipal Super Kings    |
+| 🥉   | cOdeSNiPers         |
+| 4️⃣   | glitch-101  |
+| 5️⃣   | Mangoes      |
 
 ---
 
